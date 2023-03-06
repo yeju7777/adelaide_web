@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Rawkbrush-ywLym';
+  src: url(./Rawkbrush-ywLym.eot);
+  src: url(./Rawkbrush-ywLym.eot?#iefix) format('embedded-opentype'),
+       url(./Rawkbrush-ywLym.otf) format('otf'),
+       url(./Rawkbrush-ywLym.svg#Rawkbrush-ywLym) format('svg'),
+       url(./Rawkbrush-ywLym.ttf) format('truetype'),
+       url(./Rawkbrush-ywLym.woff) format('woff'),
+       url(./Rawkbrush-ywLym.woff2) format('woff2');
+}

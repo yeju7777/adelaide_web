@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Ginger';
+  src: url(./Ginger.eot);
+  src: url(./Ginger.eot?#iefix) format('embedded-opentype'),
+       url(./Ginger.otf) format('otf'),
+       url(./Ginger.svg#Ginger) format('svg'),
+       url(./Ginger.ttf) format('truetype'),
+       url(./Ginger.woff) format('woff'),
+       url(./Ginger.woff2) format('woff2');
+}

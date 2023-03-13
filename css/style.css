@@ -37,13 +37,13 @@ font-family: 'Open Sans', sans-serif;
 
 @font-face {
     font-family: 'Ginger';
-    src: url(./Ginger.eot);
-    src: url(./Ginger.eot?#iefix) format('embedded-opentype'),
-         url(./Ginger.otf) format('otf'),
-         url(./Ginger.svg#Ginger) format('svg'),
-         url(./Ginger.ttf) format('truetype'),
-         url(./Ginger.woff) format('woff'),
-         url(./Ginger.woff2) format('woff2');
+    src: url(../fonts/Ginger.eot);
+    src: url(../fonts/Ginger.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/Ginger.otf) format('otf'),
+         url(../fonts/Ginger.svg#Ginger) format('svg'),
+         url(../fonts/Ginger.ttf) format('truetype'),
+         url(../fonts/Ginger.woff) format('woff'),
+         url(../fonts/Ginger.woff2) format('woff2');
   }
 
 @font-face {
